@@ -1,0 +1,22 @@
+{
+  "name": "js-coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort-quick.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzmingo/js-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzmingo/js-coding/issues"
+  },
+  "homepage": "https://github.com/zzmingo/js-coding#readme"
+}
