@@ -7,7 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sort": "node run/sort.js",
+    "search": "node run/search.js"
   },
   "repository": {
     "type": "git",
