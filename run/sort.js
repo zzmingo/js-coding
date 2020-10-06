@@ -6,6 +6,7 @@ const sorters = [
   require('../src/sort/insert'),
   require('../src/sort/bubble'),
   require('../src/sort/select'),
+  require('../src/sort/merge'),
 ]
 
 sorters.forEach((sorter) => {
